@@ -38,6 +38,5 @@ This project focuses on analyzing sales and production data using **Microsoft Ex
 - 📈 **Growth Tracking**: Analyze year-over-year or seasonal patterns
 
 ---
-
-## 📂 Folder Structure
+[Click to view Project Video / Linkdin Post](https://www.linkedin.com/posts/zodrick-john-1689a8256_exceldashboard-salesanalysis-productionplanning-activity-7321199204368883712-aUen?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA)
 
